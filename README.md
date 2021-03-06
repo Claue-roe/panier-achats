@@ -1,3 +1,3 @@
-# L'appli créé en classe de Veille technologique avec React
+# L'appli créée en classe de Veille technologique avec React
 
 Un peu de rattrapage plus tard, le voici!
