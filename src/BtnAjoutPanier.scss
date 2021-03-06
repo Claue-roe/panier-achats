@@ -1,0 +1,13 @@
+.BtnAjoutPanier{
+    width: 200px;
+    height: 50px;
+    cursor:pointer;
+    color: rgb(58, 21, 80);
+    background-color: rgb(245, 206, 238);
+    border: none;
+    outline:none;
+
+    &.rouge{
+        background-color: red;
+    }
+}
