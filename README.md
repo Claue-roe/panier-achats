@@ -1,3 +1,3 @@
-# Petite présentation de l'application
+# L'appli créée en classe de Veille technologique avec React
 
-Un court texte présentant votre site Web.
+Un peu de rattrapage plus tard, le voici!
